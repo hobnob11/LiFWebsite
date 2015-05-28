@@ -1,15 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body{background-image:url("/art/gui/background.png");}
-</style>
+<?php include("header.html") ?>
 
-</head>
-<body>
+<strong>HI HOBNOOOOB</strong>
+<a href="players.php" class="btn btn-default">Players</a>
+<a href="container.php" class="btn btn-default">Inventories</a>
 
-<form action="container.php"><input value="Inventories" type="submit"></form>
-<form action="players.php"><input value="Players" type="submit"></form>
-
-</body>
-</html>
+<?php include("footer.html") ?>

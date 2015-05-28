@@ -1,16 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-th { text-align: left; }
-body{
-	background-image:url("////art/images/craft_tool_window.png");
-	background-repeat: no-repeat;
-}
-</style>
-<body>
-
 <?php
+	include("header.html")
 
 	$servername = "localhost";
 	$username = "root";
@@ -33,17 +22,20 @@ if(isset($_GET['ContainerID']))
 
 	$sql = "SELECT * FROM lif_1.items WHERE ContainerID = ".$_GET['ContainerID'].";";
 	$result = $connection->query($sql);
-	echo('<table style="width:100%">');
-	echo("<tr>");
-	echo("	<th>ID</th>");
-	echo("	<th>ContainerID</th>");
-	echo("	<th>ObjectTypeID</th>");
-	echo("	<th>Icon</th>");
-	echo("	<th>Quality</th>");
-	echo("	<th>Quantity</th>");
-	echo("	<th>Durability</th>");
-	echo("	<th>MaxDurability</th>");
-	echo("</tr>");
+	?>
+
+	<table style="width:100%">');
+	<tr>
+		<th>ID</th>
+		<th>ContainerID</th>
+		<th>ObjectTypeID</th>
+		<th>Icon</th>
+		<th>Quality</th>
+		<th>Quantity</th>
+		<th>Durability</th>
+		<th>MaxDurability</th>
+	</tr>
+	<?php
 	foreach($result as $row)
 	{
 		echo("<tr>");
@@ -74,22 +66,21 @@ if(isset($_GET['ContainerID']))
 
 $sql2 = "SELECT DISTINCT ContainerID FROM lif_1.items;";
 $result2 = $connection->query($sql2);
+?>
+<br>
+Select A Container:<br>
+<form name='ContainerForm' action='container.php' method='get'>
+<select name='ContainerID'>
 
-echo("<br>");
-echo("Select A Container:<br>");
-echo("<form name='ContainerForm' action='container.php' method='get'>");
-echo("<select name='ContainerID'>");
-
+<?php
 foreach($result2 as $value2)
 {
 	echo("<option value='".$value2["ContainerID"]."'>".$value2["ContainerID"]."</option>");
 }
-echo("</select>");
-echo("<input value='Select Container' type='submit'>");
-echo("</form>");
 ?>
-<form action="index.php"><input value="Main Menu" type="submit"></form>
-<br>
-<br>
-</body>
-</html>
+</select>
+<input value='Select Container' type='submit'>
+</form>
+<a href="index.php" class="btn btn-default">Index</a>
+
+<?php include("footer.html") ?>

@@ -1,14 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
+<?php include("header.html") ?>
 
-</style>
+<a href="index.php" class="btn btn-default">Index</a>
 
-</head>
-<body>
-
-<form action="index.php"><input value="Main Menu" type="submit"></form>
-
-</body>
-</html>
+<?php include("footer.html") ?>
