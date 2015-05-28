@@ -1,0 +1,3334 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<equipment_types>
+<object id="547">
+   <!--name = Full plate helm-->
+   <skillID>42</skillID>
+   <skillAmount>90</skillAmount>
+   <slots>
+      <slot>1</slot>
+   </slots>
+   <meshes>
+      <mesh>Fullplate_Male_HeadClosed</mesh>
+      <mesh>Nude_Male_head</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.53" />
+   <multiplier type="pierce"  value="0.21" />
+   <multiplier type="blunt"  value="0.43" />
+   <multiplier type="siege"  value="0.645" />
+   </armor>
+</object>
+<object id="548">
+   <!--name = Full plate breastplate-->
+   <skillID>42</skillID>
+   <skillAmount>90</skillAmount>
+   <slots>
+      <slot>2</slot>
+   </slots>
+   <meshes>
+      <mesh>Fullplate_Male_Body</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.53" />
+   <multiplier type="pierce"  value="0.21" />
+   <multiplier type="blunt"  value="0.43" />
+   <multiplier type="siege"  value="0.645" />
+   </armor>
+</object>
+<object id="549">
+   <!--name = Full plate vambraces-->
+   <skillID>42</skillID>
+   <skillAmount>90</skillAmount>
+   <slots>
+      <slot>3</slot>
+   </slots>
+   <meshes>
+      <mesh>Fullplate_Male_Arms</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.53" />
+   <multiplier type="pierce"  value="0.21" />
+   <multiplier type="blunt"  value="0.43" />
+   <multiplier type="siege"  value="0.645" />
+   </armor>
+</object>
+<object id="550">
+   <!--name = Full plate gauntlets-->
+   <skillID>42</skillID>
+   <skillAmount>90</skillAmount>
+   <slots>
+      <slot>4</slot>
+   </slots>
+   <meshes>
+      <mesh>Fullplate_Male_Hands</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.53" />
+   <multiplier type="pierce"  value="0.21" />
+   <multiplier type="blunt"  value="0.43" />
+   <multiplier type="siege"  value="0.645" />
+   </armor>
+</object>
+<object id="551">
+   <!--name = Full plate leggings-->
+   <skillID>42</skillID>
+   <skillAmount>90</skillAmount>
+   <slots>
+      <slot>5</slot>
+   </slots>
+   <meshes>
+      <mesh>Fullplate_Male_Legs</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.53" />
+   <multiplier type="pierce"  value="0.21" />
+   <multiplier type="blunt"  value="0.43" />
+   <multiplier type="siege"  value="0.645" />
+   </armor>
+</object>
+<object id="552">
+   <!--name = Full plate greaves-->
+   <skillID>42</skillID>
+   <skillAmount>90</skillAmount>
+   <slots>
+      <slot>6</slot>
+   </slots>
+   <meshes>
+      <mesh>Fullplate_Male_Feet</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.53" />
+   <multiplier type="pierce"  value="0.21" />
+   <multiplier type="blunt"  value="0.43" />
+   <multiplier type="siege"  value="0.645" />
+   </armor>
+</object>
+<object id="555">
+   <!--name = PracticeSword-->
+   <skillID>36</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>10</slot>
+      <slot>11</slot>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="556">
+   <!--name = NordicSword-->
+   <skillID>36</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>10</slot>
+      <slot>11</slot>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="557">
+   <!--name = KnightSword-->
+   <skillID>36</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>10</slot>
+      <slot>11</slot>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="558">
+   <!--name = LightSaber-->
+   <skillID>36</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>10</slot>
+      <slot>11</slot>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="559">
+   <!--name = Scimitar-->
+   <skillID>36</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>10</slot>
+      <slot>11</slot>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="560">
+   <!--name = Falchion-->
+   <skillID>36</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>10</slot>
+      <slot>11</slot>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="561">
+   <!--name = PracticeBastard-->
+   <skillID>41</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="562">
+   <!--name = Estoc-->
+   <skillID>41</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="563">
+   <!--name = BastardSword-->
+   <skillID>41</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="564">
+   <!--name = Falchion2-->
+   <skillID>41</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="565">
+   <!--name = GrossMesser-->
+   <skillID>41</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="566">
+   <!--name = PracticeAxe-->
+   <skillID>39</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>10</slot>
+      <slot>11</slot>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="567">
+   <!--name = WarAxe-->
+   <skillID>39</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>10</slot>
+      <slot>11</slot>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="568">
+   <!--name = BattleAxe-->
+   <skillID>39</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>10</slot>
+      <slot>11</slot>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="569">
+   <!--name = NordicAxe-->
+   <skillID>39</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>10</slot>
+      <slot>11</slot>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="570">
+   <!--name = MorningStar-->
+   <skillID>40</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>10</slot>
+      <slot>11</slot>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="571">
+   <!--name = FlangedMace-->
+   <skillID>39</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>10</slot>
+      <slot>11</slot>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="572">
+   <!--name = Cudgel-->
+   <skillID>40</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>10</slot>
+      <slot>11</slot>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="573">
+   <!--name = WarPick-->
+   <skillID>40</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>10</slot>
+      <slot>11</slot>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="574">
+   <!--name = PracticeLongsword-->
+   <skillID>41</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="575">
+   <!--name = Claymore-->
+   <skillID>41</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="576">
+   <!--name = Zweihaender-->
+   <skillID>41</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="577">
+   <!--name = Flamberge-->
+   <skillID>41</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="578">
+   <!--name = PracticeGreataxe-->
+   <skillID>43</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="579">
+   <!--name = Pollaxe-->
+   <skillID>35</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="580">
+   <!--name = Bardiche-->
+   <skillID>43</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="581">
+   <!--name = BroadAxe-->
+   <skillID>43</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="582">
+   <!--name = SledgeHammer-->
+   <skillID>44</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="583">
+   <!--name = Maul-->
+   <skillID>44</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="584">
+   <!--name = PracticeMaul-->
+   <skillID>44</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="585">
+   <!--name = Glaive-->
+   <skillID>35</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="586">
+   <!--name = Guisarme-->
+   <skillID>35</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="587">
+   <!--name = WarScythe-->
+   <skillID>43</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="588">
+   <!--name = Pitchfork-->
+   <skillID>31</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="589">
+   <!--name = Partisan-->
+   <skillID>35</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="590">
+   <!--name = Staff-->
+   <skillID>35</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="591">
+   <!--name = Spear-->
+   <skillID>33</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="592">
+   <!--name = BoarSpear-->
+   <skillID>33</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="593">
+   <!--name = AwlPike-->
+   <skillID>33</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="594">
+   <!--name = BecdeCorbin-->
+   <skillID>33</skillID>
+   <skillAmount>90</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="595">
+   <!--name = ShortPike-->
+   <skillID>33</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="596">
+   <!--name = MediumPike-->
+   <skillID>33</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="597">
+   <!--name = LongPike-->
+   <skillID>33</skillID>
+   <skillAmount>90</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="598">
+   <!--name = Lance-->
+   <skillID>29</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="599">
+   <!--name = JoustingLance-->
+   <skillID>29</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="600">
+   <!--name = SimpleBow-->
+   <skillID>49</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="601">
+   <!--name = ShortBow-->
+   <skillID>49</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="602">
+   <!--name = LongBow-->
+   <skillID>49</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="603">
+   <!--name = CompositeBow-->
+   <skillID>49</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="604">
+   <!--name = LightCrossbow-->
+   <skillID>48</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="605">
+   <!--name = Arbalest-->
+   <skillID>48</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="606">
+   <!--name = HeavyCrossbow-->
+   <skillID>48</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="607">
+   <!--name = Sling-->
+   <skillID>46</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>10</slot>
+      <slot>11</slot>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="608">
+   <!--name = ThrowingKnife-->
+   <skillID>46</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>10</slot>
+      <slot>11</slot>
+   </slots>
+
+
+</object>
+<object id="609">
+   <!--name = Javelin-->
+   <skillID>46</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="610">
+   <!--name = ThrowingAxe-->
+   <skillID>46</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>10</slot>
+      <slot>11</slot>
+   </slots>
+
+
+</object>
+<object id="612">
+   <!--name = Targeshield-->
+   <skillID>38</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="613">
+   <!--name = Primitiveshield-->
+   <skillID>38</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="614">
+   <!--name = Bucklershield-->
+   <skillID>38</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>10</slot>
+      <slot>11</slot>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="615">
+   <!--name = Heatershield-->
+   <skillID>38</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="616">
+   <!--name = Kiteshield-->
+   <skillID>38</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="617">
+   <!--name = Towershield-->
+   <skillID>38</skillID>
+   <skillAmount>90</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="618">
+   <!--name = Pavise-->
+   <skillID>38</skillID>
+   <skillAmount>90</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+</object>
+
+<object id="1066">
+   <!--name = HeavyTarge-->
+   <skillID>38</skillID>
+   <skillAmount>90</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+</object>
+
+<object id="1104">
+   <!--name = NaphthaPot-->
+   <skillID>46</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>10</slot>
+      <slot>11</slot>
+   </slots>
+</object>
+
+<object id="627">
+   <!--name = Half plate helm-->
+   <skillID>42</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>1</slot>
+   </slots>
+   <meshes>
+      <mesh>Platemail_Male_Head</mesh>
+      <mesh>Nude_Male_head</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.35" />
+   <multiplier type="pierce"  value="0.14" />
+   <multiplier type="blunt"  value="0.28" />
+   <multiplier type="siege"  value="0.42" />
+   </armor>
+</object>
+<object id="628">
+   <!--name = Half plate breastplate-->
+   <skillID>42</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>2</slot>
+   </slots>
+   <meshes>
+      <mesh>Platemail_Male_Body</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.35" />
+   <multiplier type="pierce"  value="0.14" />
+   <multiplier type="blunt"  value="0.28" />
+   <multiplier type="siege"  value="0.42" />
+   </armor>
+</object>
+<object id="629">
+   <!--name = Half plate vambraces-->
+   <skillID>42</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>3</slot>
+   </slots>
+   <meshes>
+      <mesh>Platemail_Male_Arms</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.35" />
+   <multiplier type="pierce"  value="0.14" />
+   <multiplier type="blunt"  value="0.28" />
+   <multiplier type="siege"  value="0.42" />
+   </armor>
+</object>
+<object id="630">
+   <!--name = Half plate gauntlets-->
+   <skillID>42</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>4</slot>
+   </slots>
+   <meshes>
+      <mesh>Platemail_Male_Hands</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.35" />
+   <multiplier type="pierce"  value="0.14" />
+   <multiplier type="blunt"  value="0.28" />
+   <multiplier type="siege"  value="0.42" />
+   </armor>
+</object>
+<object id="631">
+   <!--name = Half plate leggings-->
+   <skillID>42</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>5</slot>
+   </slots>
+   <meshes>
+      <mesh>Platemail_Male_Legs</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.35" />
+   <multiplier type="pierce"  value="0.14" />
+   <multiplier type="blunt"  value="0.28" />
+   <multiplier type="siege"  value="0.42" />
+   </armor>
+</object>
+<object id="632">
+   <!--name = Half plate greaves-->
+   <skillID>42</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>6</slot>
+   </slots>
+   <meshes>
+      <mesh>Platemail_Male_Feet</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.35" />
+   <multiplier type="pierce"  value="0.14" />
+   <multiplier type="blunt"  value="0.28" />
+   <multiplier type="siege"  value="0.42" />
+   </armor>
+</object>
+<object id="633">
+   <!--name = Iron plate helm-->
+   <skillID>42</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>1</slot>
+   </slots>
+   <meshes>
+      <mesh>IronPlate_Male_Head</mesh>
+      <mesh>Nude_Male_head</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.29" />
+   <multiplier type="pierce"  value="0.11" />
+   <multiplier type="blunt"  value="0.23" />
+   <multiplier type="siege"  value="0.345" />
+   </armor>
+</object>
+<object id="634">
+   <!--name = Iron plate breastplate-->
+   <skillID>42</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>2</slot>
+   </slots>
+   <meshes>
+      <mesh>IronPlate_Male_Body</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.29" />
+   <multiplier type="pierce"  value="0.11" />
+   <multiplier type="blunt"  value="0.23" />
+   <multiplier type="siege"  value="0.345" />
+   </armor>
+</object>
+<object id="635">
+   <!--name = Iron plate vambraces-->
+   <skillID>42</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>3</slot>
+   </slots>
+   <meshes>
+      <mesh>IronPlate_Male_Arms</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.29" />
+   <multiplier type="pierce"  value="0.11" />
+   <multiplier type="blunt"  value="0.23" />
+   <multiplier type="siege"  value="0.345" />
+   </armor>
+</object>
+<object id="636">
+   <!--name = Iron plate gauntlets-->
+   <skillID>42</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>4</slot>
+   </slots>
+   <meshes>
+      <mesh>IronPlate_Male_Hands</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.29" />
+   <multiplier type="pierce"  value="0.11" />
+   <multiplier type="blunt"  value="0.23" />
+   <multiplier type="siege"  value="0.345" />
+   </armor>
+</object>
+<object id="637">
+   <!--name = Iron plate leggings-->
+   <skillID>42</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>5</slot>
+   </slots>
+   <meshes>
+      <mesh>IronPlate_Male_Legs</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.29" />
+   <multiplier type="pierce"  value="0.11" />
+   <multiplier type="blunt"  value="0.23" />
+   <multiplier type="siege"  value="0.345" />
+   </armor>
+</object>
+<object id="638">
+   <!--name = Iron plate greaves-->
+   <skillID>42</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>6</slot>
+   </slots>
+   <meshes>
+      <mesh>IronPlate_Male_Feet</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.29" />
+   <multiplier type="pierce"  value="0.11" />
+   <multiplier type="blunt"  value="0.23" />
+   <multiplier type="siege"  value="0.345" />
+   </armor>
+</object>
+<object id="797">
+   <!--name = Royal Full Plate Helm-->
+   <skillID>42</skillID>
+   <skillAmount>100</skillAmount>
+   <slots>
+      <slot>1</slot>
+   </slots>
+   <meshes>
+      <mesh>RoyalPlate_Male_Head</mesh>
+      <mesh>Nude_Male_head</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.53" />
+   <multiplier type="pierce"  value="0.21" />
+   <multiplier type="blunt"  value="0.43" />
+   <multiplier type="siege"  value="0.645" />
+   </armor>
+</object>
+<object id="798">
+   <!--name = Royal Full Plate Breastplate-->
+   <skillID>42</skillID>
+   <skillAmount>100</skillAmount>
+   <slots>
+      <slot>2</slot>
+   </slots>
+   <meshes>
+      <mesh>RoyalPlate_Male_Body</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.53" />
+   <multiplier type="pierce"  value="0.21" />
+   <multiplier type="blunt"  value="0.43" />
+   <multiplier type="siege"  value="0.645" />
+   </armor>
+</object>
+<object id="799">
+   <!--name = Royal Full Plate Vambraces-->
+   <skillID>42</skillID>
+   <skillAmount>100</skillAmount>
+   <slots>
+      <slot>3</slot>
+   </slots>
+   <meshes>
+      <mesh>RoyalPlate_Male_Arms</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.53" />
+   <multiplier type="pierce"  value="0.21" />
+   <multiplier type="blunt"  value="0.43" />
+   <multiplier type="siege"  value="0.645" />
+   </armor>
+</object>
+<object id="800">
+   <!--name = Royal Full Plate Gauntlets-->
+   <skillID>42</skillID>
+   <skillAmount>100</skillAmount>
+   <slots>
+      <slot>4</slot>
+   </slots>
+   <meshes>
+      <mesh>RoyalPlate_Male_Hands</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.53" />
+   <multiplier type="pierce"  value="0.21" />
+   <multiplier type="blunt"  value="0.43" />
+   <multiplier type="siege"  value="0.645" />
+   </armor>
+</object>
+<object id="801">
+   <!--name = Royal Full Plate Leggings-->
+   <skillID>42</skillID>
+   <skillAmount>100</skillAmount>
+   <slots>
+      <slot>5</slot>
+   </slots>
+   <meshes>
+      <mesh>RoyalPlate_Male_Legs</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.53" />
+   <multiplier type="pierce"  value="0.21" />
+   <multiplier type="blunt"  value="0.43" />
+   <multiplier type="siege"  value="0.645" />
+   </armor>
+</object>
+<object id="802">
+   <!--name = Royal Full Plate Greaves-->
+   <skillID>42</skillID>
+   <skillAmount>100</skillAmount>
+   <slots>
+      <slot>6</slot>
+   </slots>
+   <meshes>
+      <mesh>RoyalPlate_Male_Feet</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.53" />
+   <multiplier type="pierce"  value="0.21" />
+   <multiplier type="blunt"  value="0.43" />
+   <multiplier type="siege"  value="0.645" />
+   </armor>
+</object>
+<object id="803">
+   <!--name = Light Scale Helm-->
+   <skillID>37</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>1</slot>
+   </slots>
+   <meshes>
+      <mesh>LightScale_Male_Head</mesh>
+      <mesh>Nude_Male_head</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.24" />
+   <multiplier type="pierce"  value="0.12" />
+   <multiplier type="blunt"  value="0.18" />
+   <multiplier type="siege"  value="0.27" />
+   </armor>
+</object>
+<object id="804">
+   <!--name = Light Scale Tunic-->
+   <skillID>37</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>2</slot>
+   </slots>
+   <meshes>
+      <mesh>LightScale_Male_Body</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.24" />
+   <multiplier type="pierce"  value="0.12" />
+   <multiplier type="blunt"  value="0.18" />
+   <multiplier type="siege"  value="0.27" />
+   </armor>
+</object>
+<object id="805">
+   <!--name = Light Scale Vambraces-->
+   <skillID>37</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>3</slot>
+   </slots>
+   <meshes>
+      <mesh>LightScale_Male_Arms</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.24" />
+   <multiplier type="pierce"  value="0.12" />
+   <multiplier type="blunt"  value="0.18" />
+   <multiplier type="siege"  value="0.27" />
+   </armor>
+</object>
+<object id="806">
+   <!--name = Light Scale Gauntlets-->
+   <skillID>37</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>4</slot>
+   </slots>
+   <meshes>
+      <mesh>LightScale_Male_Hands</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.24" />
+   <multiplier type="pierce"  value="0.12" />
+   <multiplier type="blunt"  value="0.18" />
+   <multiplier type="siege"  value="0.27" />
+   </armor>
+</object>
+<object id="807">
+   <!--name = Light Scale Leggings-->
+   <skillID>37</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>5</slot>
+   </slots>
+   <meshes>
+      <mesh>LightScale_Male_Legs</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.24" />
+   <multiplier type="pierce"  value="0.12" />
+   <multiplier type="blunt"  value="0.18" />
+   <multiplier type="siege"  value="0.27" />
+   </armor>
+</object>
+<object id="808">
+   <!--name = Light Scale Greaves-->
+   <skillID>37</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>6</slot>
+   </slots>
+   <meshes>
+      <mesh>LightScale_Male_Feet</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.24" />
+   <multiplier type="pierce"  value="0.12" />
+   <multiplier type="blunt"  value="0.18" />
+   <multiplier type="siege"  value="0.27" />
+   </armor>
+</object>
+<object id="809">
+   <!--name = Regular Scale Helm-->
+   <skillID>37</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>1</slot>
+   </slots>
+   <meshes>
+      <mesh>Regularscale_Male_Head</mesh>
+      <mesh>Nude_Male_head</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.33" />
+   <multiplier type="pierce"  value="0.16" />
+   <multiplier type="blunt"  value="0.25" />
+   <multiplier type="siege"  value="0.375" />
+   </armor>
+</object>
+<object id="810">
+   <!--name = Regular Scale Tunic-->
+   <skillID>37</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>2</slot>
+   </slots>
+   <meshes>
+      <mesh>Regularscale_Male_Body</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.33" />
+   <multiplier type="pierce"  value="0.16" />
+   <multiplier type="blunt"  value="0.25" />
+   <multiplier type="siege"  value="0.375" />
+   </armor>
+</object>
+<object id="811">
+   <!--name = Regular Scale Vambraces-->
+   <skillID>37</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>3</slot>
+   </slots>
+   <meshes>
+      <mesh>Regularscale_Male_Arms</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.33" />
+   <multiplier type="pierce"  value="0.16" />
+   <multiplier type="blunt"  value="0.25" />
+   <multiplier type="siege"  value="0.375" />
+   </armor>
+</object>
+<object id="812">
+   <!--name = Regular Scale Gauntlets-->
+   <skillID>37</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>4</slot>
+   </slots>
+   <meshes>
+      <mesh>Regularscale_Male_Hands</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.33" />
+   <multiplier type="pierce"  value="0.16" />
+   <multiplier type="blunt"  value="0.25" />
+   <multiplier type="siege"  value="0.375" />
+   </armor>
+</object>
+<object id="813">
+   <!--name = Regular Scale Leggings-->
+   <skillID>37</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>5</slot>
+   </slots>
+   <meshes>
+      <mesh>Regularscale_Male_Legs</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.33" />
+   <multiplier type="pierce"  value="0.16" />
+   <multiplier type="blunt"  value="0.25" />
+   <multiplier type="siege"  value="0.375" />
+   </armor>
+</object>
+<object id="814">
+   <!--name = Regular Scale Greaves-->
+   <skillID>37</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>6</slot>
+   </slots>
+   <meshes>
+      <mesh>Regularscale_Male_Feet</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.33" />
+   <multiplier type="pierce"  value="0.16" />
+   <multiplier type="blunt"  value="0.25" />
+   <multiplier type="siege"  value="0.375" />
+   </armor>
+</object>
+<object id="815">
+   <!--name = Heavy Scale Helm-->
+   <skillID>37</skillID>
+   <skillAmount>90</skillAmount>
+   <slots>
+      <slot>1</slot>
+   </slots>
+   <meshes>
+      <mesh>HeavyScale_Male_Head</mesh>
+      <mesh>Nude_Male_head</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.47" />
+   <multiplier type="pierce"  value="0.23" />
+   <multiplier type="blunt"  value="0.35" />
+   <multiplier type="siege"  value="0.525" />
+   </armor>
+</object>
+<object id="816">
+   <!--name = Heavy Scale Tunic-->
+   <skillID>37</skillID>
+   <skillAmount>90</skillAmount>
+   <slots>
+      <slot>2</slot>
+   </slots>
+   <meshes>
+      <mesh>HeavyScale_Male_Body</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.47" />
+   <multiplier type="pierce"  value="0.23" />
+   <multiplier type="blunt"  value="0.35" />
+   <multiplier type="siege"  value="0.525" />
+   </armor>
+</object>
+<object id="817">
+   <!--name = Heavy Scale Vambraces-->
+   <skillID>37</skillID>
+   <skillAmount>90</skillAmount>
+   <slots>
+      <slot>3</slot>
+   </slots>
+   <meshes>
+      <mesh>HeavyScale_Male_Arms</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.47" />
+   <multiplier type="pierce"  value="0.23" />
+   <multiplier type="blunt"  value="0.35" />
+   <multiplier type="siege"  value="0.525" />
+   </armor>
+</object>
+<object id="818">
+   <!--name = Heavy Scale Gauntlets-->
+   <skillID>37</skillID>
+   <skillAmount>90</skillAmount>
+   <slots>
+      <slot>4</slot>
+   </slots>
+   <meshes>
+      <mesh>HeavyScale_Male_Hands</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.47" />
+   <multiplier type="pierce"  value="0.23" />
+   <multiplier type="blunt"  value="0.35" />
+   <multiplier type="siege"  value="0.525" />
+   </armor>
+</object>
+<object id="819">
+   <!--name = Heavy Scale Leggings-->
+   <skillID>37</skillID>
+   <skillAmount>90</skillAmount>
+   <slots>
+      <slot>5</slot>
+   </slots>
+   <meshes>
+      <mesh>HeavyScale_Male_Legs</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.47" />
+   <multiplier type="pierce"  value="0.23" />
+   <multiplier type="blunt"  value="0.35" />
+   <multiplier type="siege"  value="0.525" />
+   </armor>
+</object>
+<object id="820">
+   <!--name = Heavy Scale Greaves-->
+   <skillID>37</skillID>
+   <skillAmount>90</skillAmount>
+   <slots>
+      <slot>6</slot>
+   </slots>
+   <meshes>
+      <mesh>HeavyScale_Male_Feet</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.47" />
+   <multiplier type="pierce"  value="0.23" />
+   <multiplier type="blunt"  value="0.35" />
+   <multiplier type="siege"  value="0.525" />
+   </armor>
+</object>
+<object id="821">
+   <!--name = Royal Scale Helm-->
+   <skillID>37</skillID>
+   <skillAmount>100</skillAmount>
+   <slots>
+      <slot>1</slot>
+   </slots>
+   <meshes>
+      <mesh>RoyalScale_Male_Head</mesh>
+      <mesh>Nude_Male_head</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.47" />
+   <multiplier type="pierce"  value="0.23" />
+   <multiplier type="blunt"  value="0.35" />
+   <multiplier type="siege"  value="0.525" />
+   </armor>
+</object>
+<object id="822">
+   <!--name = Royal Scale Brestplate-->
+   <skillID>37</skillID>
+   <skillAmount>100</skillAmount>
+   <slots>
+      <slot>2</slot>
+   </slots>
+   <meshes>
+      <mesh>RoyalScale_Male_Body</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.47" />
+   <multiplier type="pierce"  value="0.23" />
+   <multiplier type="blunt"  value="0.35" />
+   <multiplier type="siege"  value="0.525" />
+   </armor>
+</object>
+<object id="823">
+   <!--name = Royal Scale Vambraces-->
+   <skillID>37</skillID>
+   <skillAmount>100</skillAmount>
+   <slots>
+      <slot>3</slot>
+   </slots>
+   <meshes>
+      <mesh>RoyalScale_Male_Arms</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.47" />
+   <multiplier type="pierce"  value="0.23" />
+   <multiplier type="blunt"  value="0.35" />
+   <multiplier type="siege"  value="0.525" />
+   </armor>
+</object>
+<object id="824">
+   <!--name = Royal Scale Gauntlets-->
+   <skillID>37</skillID>
+   <skillAmount>100</skillAmount>
+   <slots>
+      <slot>4</slot>
+   </slots>
+   <meshes>
+      <mesh>RoyalScale_Male_Hands</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.47" />
+   <multiplier type="pierce"  value="0.23" />
+   <multiplier type="blunt"  value="0.35" />
+   <multiplier type="siege"  value="0.525" />
+   </armor>
+</object>
+<object id="825">
+   <!--name = Royal Scale Leggings-->
+   <skillID>37</skillID>
+   <skillAmount>100</skillAmount>
+   <slots>
+      <slot>5</slot>
+   </slots>
+   <meshes>
+      <mesh>RoyalScale_Male_Legs</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.47" />
+   <multiplier type="pierce"  value="0.23" />
+   <multiplier type="blunt"  value="0.35" />
+   <multiplier type="siege"  value="0.525" />
+   </armor>
+</object>
+<object id="826">
+   <!--name = Royal Scale Greaves-->
+   <skillID>37</skillID>
+   <skillAmount>100</skillAmount>
+   <slots>
+      <slot>6</slot>
+   </slots>
+   <meshes>
+      <mesh>RoyalScale_Male_Feet</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.47" />
+   <multiplier type="pierce"  value="0.23" />
+   <multiplier type="blunt"  value="0.35" />
+   <multiplier type="siege"  value="0.525" />
+   </armor>
+</object>
+<object id="831">
+   <!--name = Light Chainmail Helm-->
+   <skillID>27</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>1</slot>
+   </slots>
+   <meshes>
+      <mesh>LightChain_Male_Head</mesh>
+      <mesh>Nude_Male_head</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.21" />
+   <multiplier type="pierce"  value="0.07" />
+   <multiplier type="blunt"  value="0.17" />
+   <multiplier type="siege"  value="0.255" />
+   </armor>
+</object>
+<object id="832">
+   <!--name = Light Chainmail Tunic-->
+   <skillID>27</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>2</slot>
+   </slots>
+   <meshes>
+      <mesh>LightChain_Male_Body</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.21" />
+   <multiplier type="pierce"  value="0.07" />
+   <multiplier type="blunt"  value="0.17" />
+   <multiplier type="siege"  value="0.255" />
+   </armor>
+</object>
+<object id="833">
+   <!--name = Light Chainmail Vambraces-->
+   <skillID>27</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>3</slot>
+   </slots>
+   <meshes>
+      <mesh>LightChain_Male_Arms</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.21" />
+   <multiplier type="pierce"  value="0.07" />
+   <multiplier type="blunt"  value="0.17" />
+   <multiplier type="siege"  value="0.255" />
+   </armor>
+</object>
+<object id="834">
+   <!--name = Light Chainmail Leggings-->
+   <skillID>27</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>5</slot>
+   </slots>
+   <meshes>
+      <mesh>LightChain_Male_Legs</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.21" />
+   <multiplier type="pierce"  value="0.07" />
+   <multiplier type="blunt"  value="0.17" />
+   <multiplier type="siege"  value="0.255" />
+   </armor>
+</object>
+<object id="835">
+   <!--name = Light Chainmail Greaves-->
+   <skillID>27</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>6</slot>
+   </slots>
+   <meshes>
+      <mesh>LightChain_Male_Feet</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.21" />
+   <multiplier type="pierce"  value="0.07" />
+   <multiplier type="blunt"  value="0.17" />
+   <multiplier type="siege"  value="0.255" />
+   </armor>
+</object>
+<object id="836">
+   <!--name = Regular Chainmail Helm-->
+   <skillID>27</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>1</slot>
+   </slots>
+   <meshes>
+      <mesh>RegularChain_Male_Head</mesh>
+      <mesh>Nude_Male_head</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.31" />
+   <multiplier type="pierce"  value="0.1" />
+   <multiplier type="blunt"  value="0.26" />
+   <multiplier type="siege"  value="0.39" />
+   </armor>
+</object>
+<object id="837">
+   <!--name = Regular Chainmail Breastplate-->
+   <skillID>27</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>2</slot>
+   </slots>
+   <meshes>
+      <mesh>RegularChain_Male_Body</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.31" />
+   <multiplier type="pierce"  value="0.1" />
+   <multiplier type="blunt"  value="0.26" />
+   <multiplier type="siege"  value="0.39" />
+   </armor>
+</object>
+<object id="838">
+   <!--name = Regular Chainmail Vambraces-->
+   <skillID>27</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>3</slot>
+   </slots>
+   <meshes>
+      <mesh>RegularChain_Male_Arms</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.31" />
+   <multiplier type="pierce"  value="0.1" />
+   <multiplier type="blunt"  value="0.26" />
+   <multiplier type="siege"  value="0.39" />
+   </armor>
+</object>
+<object id="839">
+   <!--name = Regular Chainmail Gauntlets-->
+   <skillID>27</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>4</slot>
+   </slots>
+   <meshes>
+      <mesh>RegularChain_Male_Hands</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.31" />
+   <multiplier type="pierce"  value="0.1" />
+   <multiplier type="blunt"  value="0.26" />
+   <multiplier type="siege"  value="0.39" />
+   </armor>
+</object>
+<object id="840">
+   <!--name = Regular Chainmail Greaves-->
+   <skillID>27</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>6</slot>
+   </slots>
+   <meshes>
+      <mesh>RegularChain_Male_Feet</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.31" />
+   <multiplier type="pierce"  value="0.1" />
+   <multiplier type="blunt"  value="0.26" />
+   <multiplier type="siege"  value="0.39" />
+   </armor>
+</object>
+<object id="841">
+   <!--name = Heavy Chainmail Helm-->
+   <skillID>27</skillID>
+   <skillAmount>90</skillAmount>
+   <slots>
+      <slot>1</slot>
+   </slots>
+   <meshes>
+      <mesh>HeavyChain_Male_Head</mesh>
+      <mesh>Nude_Male_head</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.42" />
+   <multiplier type="pierce"  value="0.14" />
+   <multiplier type="blunt"  value="0.35" />
+   <multiplier type="siege"  value="0.525" />
+   </armor>
+</object>
+<object id="842">
+   <!--name = Heavy Chainmail Breastplate-->
+   <skillID>27</skillID>
+   <skillAmount>90</skillAmount>
+   <slots>
+      <slot>2</slot>
+   </slots>
+   <meshes>
+      <mesh>HeavyChain_Male_Body</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.42" />
+   <multiplier type="pierce"  value="0.14" />
+   <multiplier type="blunt"  value="0.35" />
+   <multiplier type="siege"  value="0.525" />
+   </armor>
+</object>
+<object id="843">
+   <!--name = Heavy Chainmail Vambraces-->
+   <skillID>27</skillID>
+   <skillAmount>90</skillAmount>
+   <slots>
+      <slot>3</slot>
+   </slots>
+   <meshes>
+      <mesh>HeavyChain_Male_Arms</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.42" />
+   <multiplier type="pierce"  value="0.14" />
+   <multiplier type="blunt"  value="0.35" />
+   <multiplier type="siege"  value="0.525" />
+   </armor>
+</object>
+<object id="844">
+   <!--name = Heavy Chainmail Gauntlets-->
+   <skillID>27</skillID>
+   <skillAmount>90</skillAmount>
+   <slots>
+      <slot>4</slot>
+   </slots>
+   <meshes>
+      <mesh>HeavyChain_Male_Hands</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.42" />
+   <multiplier type="pierce"  value="0.14" />
+   <multiplier type="blunt"  value="0.35" />
+   <multiplier type="siege"  value="0.525" />
+   </armor>
+</object>
+<object id="845">
+   <!--name = Heavy Chainmail Leggings-->
+   <skillID>27</skillID>
+   <skillAmount>90</skillAmount>
+   <slots>
+      <slot>5</slot>
+   </slots>
+   <meshes>
+      <mesh>HeavyChain_Male_Legs</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.42" />
+   <multiplier type="pierce"  value="0.14" />
+   <multiplier type="blunt"  value="0.35" />
+   <multiplier type="siege"  value="0.525" />
+   </armor>
+</object>
+<object id="846">
+   <!--name = Heavy Chainmail Greaves-->
+   <skillID>27</skillID>
+   <skillAmount>90</skillAmount>
+   <slots>
+      <slot>6</slot>
+   </slots>
+   <meshes>
+      <mesh>HeavyChain_Male_Feet</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.42" />
+   <multiplier type="pierce"  value="0.14" />
+   <multiplier type="blunt"  value="0.35" />
+   <multiplier type="siege"  value="0.525" />
+   </armor>
+</object>
+<object id="847">
+   <!--name = Royal Chainmail Helm-->
+   <skillID>27</skillID>
+   <skillAmount>100</skillAmount>
+   <slots>
+      <slot>1</slot>
+   </slots>
+   <meshes>
+      <mesh>RoyalChain_Male_Head</mesh>
+      <mesh>Nude_Male_head</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.42" />
+   <multiplier type="pierce"  value="0.14" />
+   <multiplier type="blunt"  value="0.35" />
+   <multiplier type="siege"  value="0.525" />
+   </armor>
+</object>
+<object id="848">
+   <!--name = Royal Chainmail Brestplate-->
+   <skillID>27</skillID>
+   <skillAmount>100</skillAmount>
+   <slots>
+      <slot>2</slot>
+   </slots>
+   <meshes>
+      <mesh>RoyalChain_Male_Body</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.42" />
+   <multiplier type="pierce"  value="0.14" />
+   <multiplier type="blunt"  value="0.35" />
+   <multiplier type="siege"  value="0.525" />
+   </armor>
+</object>
+<object id="849">
+   <!--name = Royal Chainmail Vambraces-->
+   <skillID>27</skillID>
+   <skillAmount>100</skillAmount>
+   <slots>
+      <slot>3</slot>
+   </slots>
+   <meshes>
+      <mesh>RoyalChain_Male_Arms</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.42" />
+   <multiplier type="pierce"  value="0.14" />
+   <multiplier type="blunt"  value="0.35" />
+   <multiplier type="siege"  value="0.525" />
+   </armor>
+</object>
+<object id="850">
+   <!--name = Royal Chainmail Gauntlets-->
+   <skillID>27</skillID>
+   <skillAmount>100</skillAmount>
+   <slots>
+      <slot>4</slot>
+   </slots>
+   <meshes>
+      <mesh>RoyalChain_Male_Hands</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.42" />
+   <multiplier type="pierce"  value="0.14" />
+   <multiplier type="blunt"  value="0.35" />
+   <multiplier type="siege"  value="0.525" />
+   </armor>
+</object>
+<object id="851">
+   <!--name = Royal Chainmail Leggings-->
+   <skillID>27</skillID>
+   <skillAmount>100</skillAmount>
+   <slots>
+      <slot>5</slot>
+   </slots>
+   <meshes>
+      <mesh>RoyalChain_Male_Legs</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.42" />
+   <multiplier type="pierce"  value="0.14" />
+   <multiplier type="blunt"  value="0.35" />
+   <multiplier type="siege"  value="0.525" />
+   </armor>
+</object>
+<object id="852">
+   <!--name = Royal Chainmail Greaves-->
+   <skillID>27</skillID>
+   <skillAmount>100</skillAmount>
+   <slots>
+      <slot>6</slot>
+   </slots>
+   <meshes>
+      <mesh>RoyalChain_Male_Feet</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.42" />
+   <multiplier type="pierce"  value="0.14" />
+   <multiplier type="blunt"  value="0.35" />
+   <multiplier type="siege"  value="0.525" />
+   </armor>
+</object>
+<object id="857">
+   <!--name = Novice Leather Helm-->
+   <skillID>47</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>1</slot>
+   </slots>
+   <meshes>
+      <mesh>noviceleather_Male_Head</mesh>
+      <mesh>Nude_Male_head</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.1" />
+   <multiplier type="pierce"  value="0.13" />
+   <multiplier type="blunt"  value="0.18" />
+   <multiplier type="siege"  value="0.27" />
+   </armor>
+</object>
+<object id="858">
+   <!--name = Novice Leather Breastplate-->
+   <skillID>47</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>2</slot>
+   </slots>
+   <meshes>
+      <mesh>noviceleather_Male_Body</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.1" />
+   <multiplier type="pierce"  value="0.13" />
+   <multiplier type="blunt"  value="0.18" />
+   <multiplier type="siege"  value="0.27" />
+   </armor>
+</object>
+<object id="859">
+   <!--name = Novice Leather Vambraces-->
+   <skillID>47</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>3</slot>
+   </slots>
+   <meshes>
+      <mesh>noviceleather_Male_Arms</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.1" />
+   <multiplier type="pierce"  value="0.13" />
+   <multiplier type="blunt"  value="0.18" />
+   <multiplier type="siege"  value="0.27" />
+   </armor>
+</object>
+<object id="860">
+   <!--name = Novice Leather Gauntlets-->
+   <skillID>47</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>4</slot>
+   </slots>
+   <meshes>
+      <mesh>noviceleather_Male_Hands</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.1" />
+   <multiplier type="pierce"  value="0.13" />
+   <multiplier type="blunt"  value="0.18" />
+   <multiplier type="siege"  value="0.27" />
+   </armor>
+</object>
+<object id="861">
+   <!--name = Novice Leather Leggings-->
+   <skillID>47</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>5</slot>
+   </slots>
+   <meshes>
+      <mesh>noviceleather_Male_Legs</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.1" />
+   <multiplier type="pierce"  value="0.13" />
+   <multiplier type="blunt"  value="0.18" />
+   <multiplier type="siege"  value="0.27" />
+   </armor>
+</object>
+<object id="862">
+   <!--name = Novice Leather Greaves-->
+   <skillID>47</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>6</slot>
+   </slots>
+   <meshes>
+      <mesh>noviceleather_Male_Feet</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.1" />
+   <multiplier type="pierce"  value="0.13" />
+   <multiplier type="blunt"  value="0.18" />
+   <multiplier type="siege"  value="0.27" />
+   </armor>
+</object>
+<object id="863">
+   <!--name = Regular Leather Helm-->
+   <skillID>47</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>1</slot>
+   </slots>
+   <meshes>
+      <mesh>lamellarleather_Male_Head</mesh>
+      <mesh>Nude_Male_head</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.13" />
+   <multiplier type="pierce"  value="0.16" />
+   <multiplier type="blunt"  value="0.23" />
+   <multiplier type="siege"  value="0.345" />
+   </armor>
+</object>
+<object id="864">
+   <!--name = Regular Leather Breastplate-->
+   <skillID>47</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>2</slot>
+   </slots>
+   <meshes>
+      <mesh>lamellarleather_Male_Body</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.13" />
+   <multiplier type="pierce"  value="0.16" />
+   <multiplier type="blunt"  value="0.23" />
+   <multiplier type="siege"  value="0.345" />
+   </armor>
+</object>
+<object id="865">
+   <!--name = Regular Leather Vambraces-->
+   <skillID>47</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>3</slot>
+   </slots>
+   <meshes>
+      <mesh>lamellarleather_Male_Arms</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.13" />
+   <multiplier type="pierce"  value="0.16" />
+   <multiplier type="blunt"  value="0.23" />
+   <multiplier type="siege"  value="0.345" />
+   </armor>
+</object>
+<object id="866">
+   <!--name = Regular Leather Gauntlets-->
+   <skillID>47</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>4</slot>
+   </slots>
+   <meshes>
+      <mesh>lamellarleather_Male_Hands</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.13" />
+   <multiplier type="pierce"  value="0.16" />
+   <multiplier type="blunt"  value="0.23" />
+   <multiplier type="siege"  value="0.345" />
+   </armor>
+</object>
+<object id="867">
+   <!--name = Regular Leather Leggings-->
+   <skillID>47</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>5</slot>
+   </slots>
+   <meshes>
+      <mesh>lamellarleather_Male_Legs</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.13" />
+   <multiplier type="pierce"  value="0.16" />
+   <multiplier type="blunt"  value="0.23" />
+   <multiplier type="siege"  value="0.345" />
+   </armor>
+</object>
+<object id="868">
+   <!--name = Regular Leather Greaves-->
+   <skillID>47</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>6</slot>
+   </slots>
+   <meshes>
+      <mesh>lamellarleather_Male_Feet</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.13" />
+   <multiplier type="pierce"  value="0.16" />
+   <multiplier type="blunt"  value="0.23" />
+   <multiplier type="siege"  value="0.345" />
+   </armor>
+</object>
+<object id="869">
+   <!--name = Heavy Leather Helm-->
+   <skillID>47</skillID>
+   <skillAmount>90</skillAmount>
+   <slots>
+      <slot>1</slot>
+   </slots>
+   <meshes>
+      <mesh>heavyleather_Male_Head</mesh>
+      <mesh>Nude_Male_head</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.18" />
+   <multiplier type="pierce"  value="0.22" />
+   <multiplier type="blunt"  value="0.31" />
+   <multiplier type="siege"  value="0.465" />
+   </armor>
+</object>
+<object id="870">
+   <!--name = Heavy Leather Breastplate-->
+   <skillID>47</skillID>
+   <skillAmount>90</skillAmount>
+   <slots>
+      <slot>2</slot>
+   </slots>
+   <meshes>
+      <mesh>heavyleather_Male_Body</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.18" />
+   <multiplier type="pierce"  value="0.22" />
+   <multiplier type="blunt"  value="0.31" />
+   <multiplier type="siege"  value="0.465" />
+   </armor>
+</object>
+<object id="871">
+   <!--name = Heavy Leather Vambraces-->
+   <skillID>47</skillID>
+   <skillAmount>90</skillAmount>
+   <slots>
+      <slot>3</slot>
+   </slots>
+   <meshes>
+      <mesh>heavyleather_Male_Arms</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.18" />
+   <multiplier type="pierce"  value="0.22" />
+   <multiplier type="blunt"  value="0.31" />
+   <multiplier type="siege"  value="0.465" />
+   </armor>
+</object>
+<object id="872">
+   <!--name = Heavy Leather Gauntlets-->
+   <skillID>47</skillID>
+   <skillAmount>90</skillAmount>
+   <slots>
+      <slot>4</slot>
+   </slots>
+   <meshes>
+      <mesh>heavyleather_Male_Hands</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.18" />
+   <multiplier type="pierce"  value="0.22" />
+   <multiplier type="blunt"  value="0.31" />
+   <multiplier type="siege"  value="0.465" />
+   </armor>
+</object>
+<object id="873">
+   <!--name = Heavy Leather Leggings-->
+   <skillID>47</skillID>
+   <skillAmount>90</skillAmount>
+   <slots>
+      <slot>5</slot>
+   </slots>
+   <meshes>
+      <mesh>heavyleather_Male_Legs</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.18" />
+   <multiplier type="pierce"  value="0.22" />
+   <multiplier type="blunt"  value="0.31" />
+   <multiplier type="siege"  value="0.465" />
+   </armor>
+</object>
+<object id="874">
+   <!--name = Heavy Leather Greaves-->
+   <skillID>47</skillID>
+   <skillAmount>90</skillAmount>
+   <slots>
+      <slot>6</slot>
+   </slots>
+   <meshes>
+      <mesh>heavyleather_Male_Feet</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.18" />
+   <multiplier type="pierce"  value="0.22" />
+   <multiplier type="blunt"  value="0.31" />
+   <multiplier type="siege"  value="0.465" />
+   </armor>
+</object>
+<object id="875">
+   <!--name = Royal Leather Helm-->
+   <skillID>47</skillID>
+   <skillAmount>100</skillAmount>
+   <slots>
+      <slot>1</slot>
+   </slots>
+   <meshes>
+      <mesh>RoyalLeather_Male_Head</mesh>
+      <mesh>Nude_Male_head</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.18" />
+   <multiplier type="pierce"  value="0.22" />
+   <multiplier type="blunt"  value="0.31" />
+   <multiplier type="siege"  value="0.465" />
+   </armor>
+</object>
+<object id="876">
+   <!--name = Royal Leather Brestplate-->
+   <skillID>47</skillID>
+   <skillAmount>100</skillAmount>
+   <slots>
+      <slot>2</slot>
+   </slots>
+   <meshes>
+      <mesh>RoyalLeather_Male_Body</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.18" />
+   <multiplier type="pierce"  value="0.22" />
+   <multiplier type="blunt"  value="0.31" />
+   <multiplier type="siege"  value="0.465" />
+   </armor>
+</object>
+<object id="877">
+   <!--name = Royal Leather Vambraces-->
+   <skillID>47</skillID>
+   <skillAmount>100</skillAmount>
+   <slots>
+      <slot>3</slot>
+   </slots>
+   <meshes>
+      <mesh>RoyalLeather_Male_Arms</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.18" />
+   <multiplier type="pierce"  value="0.22" />
+   <multiplier type="blunt"  value="0.31" />
+   <multiplier type="siege"  value="0.465" />
+   </armor>
+</object>
+<object id="878">
+   <!--name = Royal Leather Gauntlets-->
+   <skillID>47</skillID>
+   <skillAmount>100</skillAmount>
+   <slots>
+      <slot>4</slot>
+   </slots>
+   <meshes>
+      <mesh>RoyalLeather_Male_Hands</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.18" />
+   <multiplier type="pierce"  value="0.22" />
+   <multiplier type="blunt"  value="0.31" />
+   <multiplier type="siege"  value="0.465" />
+   </armor>
+</object>
+<object id="879">
+   <!--name = Royal Leather Leggings-->
+   <skillID>47</skillID>
+   <skillAmount>100</skillAmount>
+   <slots>
+      <slot>5</slot>
+   </slots>
+   <meshes>
+      <mesh>RoyalLeather_Male_Legs</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.18" />
+   <multiplier type="pierce"  value="0.22" />
+   <multiplier type="blunt"  value="0.31" />
+   <multiplier type="siege"  value="0.465" />
+   </armor>
+</object>
+<object id="880">
+   <!--name = Royal Leather Greaves-->
+   <skillID>47</skillID>
+   <skillAmount>100</skillAmount>
+   <slots>
+      <slot>6</slot>
+   </slots>
+   <meshes>
+      <mesh>RoyalLeather_Male_Feet</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.18" />
+   <multiplier type="pierce"  value="0.22" />
+   <multiplier type="blunt"  value="0.31" />
+   <multiplier type="siege"  value="0.465" />
+   </armor>
+</object>
+<object id="885">
+   <!--name = Novice Padded Helm-->
+   <skillID>32</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>1</slot>
+   </slots>
+   <meshes>
+      <mesh>novicepadded_Male_Head</mesh>
+      <mesh>Nude_Male_head</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.04" />
+   <multiplier type="pierce"  value="0.09" />
+   <multiplier type="blunt"  value="0.17" />
+   <multiplier type="siege"  value="0.255" />
+   </armor>
+</object>
+<object id="886">
+   <!--name = Novice Padded Breastplate-->
+   <skillID>32</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>2</slot>
+   </slots>
+   <meshes>
+      <mesh>novicepadded_Male_Body</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.04" />
+   <multiplier type="pierce"  value="0.09" />
+   <multiplier type="blunt"  value="0.17" />
+   <multiplier type="siege"  value="0.255" />
+   </armor>
+</object>
+<object id="887">
+   <!--name = Novice Padded Vambraces-->
+   <skillID>32</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>3</slot>
+   </slots>
+   <meshes>
+      <mesh>novicepadded_Male_Arms</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.04" />
+   <multiplier type="pierce"  value="0.09" />
+   <multiplier type="blunt"  value="0.17" />
+   <multiplier type="siege"  value="0.255" />
+   </armor>
+</object>
+<object id="888">
+   <!--name = Novice Padded Gauntlets-->
+   <skillID>32</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>4</slot>
+   </slots>
+   <meshes>
+      <mesh>novicepadded_Male_Hands</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.04" />
+   <multiplier type="pierce"  value="0.09" />
+   <multiplier type="blunt"  value="0.17" />
+   <multiplier type="siege"  value="0.255" />
+   </armor>
+</object>
+<object id="889">
+   <!--name = Novice Padded Leggings-->
+   <skillID>32</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>5</slot>
+   </slots>
+   <meshes>
+      <mesh>novicepadded_Male_Legs</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.04" />
+   <multiplier type="pierce"  value="0.09" />
+   <multiplier type="blunt"  value="0.17" />
+   <multiplier type="siege"  value="0.255" />
+   </armor>
+</object>
+<object id="890">
+   <!--name = Novice Padded Greaves-->
+   <skillID>32</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>6</slot>
+   </slots>
+   <meshes>
+      <mesh>novicepadded_Male_Feet</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.04" />
+   <multiplier type="pierce"  value="0.09" />
+   <multiplier type="blunt"  value="0.17" />
+   <multiplier type="siege"  value="0.255" />
+   </armor>
+</object>
+<object id="891">
+   <!--name = Regular Padded Helm-->
+   <skillID>32</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>1</slot>
+   </slots>
+   <meshes>
+      <mesh>regularpadded_Male_Head</mesh>
+      <mesh>Nude_Male_head</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.06" />
+   <multiplier type="pierce"  value="0.12" />
+   <multiplier type="blunt"  value="0.23" />
+   <multiplier type="siege"  value="0.345" />
+   </armor>
+</object>
+<object id="892">
+   <!--name = Regular Padded Breastplate-->
+   <skillID>32</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>2</slot>
+   </slots>
+   <meshes>
+      <mesh>regularpadded_Male_Body</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.06" />
+   <multiplier type="pierce"  value="0.12" />
+   <multiplier type="blunt"  value="0.23" />
+   <multiplier type="siege"  value="0.345" />
+   </armor>
+</object>
+<object id="893">
+   <!--name = Regular Padded Vambraces-->
+   <skillID>32</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>3</slot>
+   </slots>
+   <meshes>
+      <mesh>regularpadded_Male_Arms</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.06" />
+   <multiplier type="pierce"  value="0.12" />
+   <multiplier type="blunt"  value="0.23" />
+   <multiplier type="siege"  value="0.345" />
+   </armor>
+</object>
+<object id="894">
+   <!--name = Regular Padded Gauntlets-->
+   <skillID>32</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>4</slot>
+   </slots>
+   <meshes>
+      <mesh>regularpadded_Male_Hands</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.06" />
+   <multiplier type="pierce"  value="0.12" />
+   <multiplier type="blunt"  value="0.23" />
+   <multiplier type="siege"  value="0.345" />
+   </armor>
+</object>
+<object id="895">
+   <!--name = Regular Padded Leggings-->
+   <skillID>32</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>5</slot>
+   </slots>
+   <meshes>
+      <mesh>regularpadded_Male_Legs</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.06" />
+   <multiplier type="pierce"  value="0.12" />
+   <multiplier type="blunt"  value="0.23" />
+   <multiplier type="siege"  value="0.345" />
+   </armor>
+</object>
+<object id="896">
+   <!--name = Regular Padded Greaves-->
+   <skillID>32</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>6</slot>
+   </slots>
+   <meshes>
+      <mesh>regularpadded_Male_Feet</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.06" />
+   <multiplier type="pierce"  value="0.12" />
+   <multiplier type="blunt"  value="0.23" />
+   <multiplier type="siege"  value="0.345" />
+   </armor>
+</object>
+<object id="897">
+   <!--name = Heavy Padded Helm-->
+   <skillID>32</skillID>
+   <skillAmount>90</skillAmount>
+   <slots>
+      <slot>1</slot>
+   </slots>
+   <meshes>
+      <mesh>HeavyPadded_Male_Head</mesh>
+      <mesh>Nude_Male_head</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.07" />
+   <multiplier type="pierce"  value="0.14" />
+   <multiplier type="blunt"  value="0.27" />
+   <multiplier type="siege"  value="0.405" />
+   </armor>
+</object>
+<object id="898">
+   <!--name = Heavy Padded Breastplate-->
+   <skillID>32</skillID>
+   <skillAmount>90</skillAmount>
+   <slots>
+      <slot>2</slot>
+   </slots>
+   <meshes>
+      <mesh>HeavyPadded_Male_Body</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.07" />
+   <multiplier type="pierce"  value="0.14" />
+   <multiplier type="blunt"  value="0.27" />
+   <multiplier type="siege"  value="0.405" />
+   </armor>
+</object>
+<object id="899">
+   <!--name = Heavy Padded Vambraces-->
+   <skillID>32</skillID>
+   <skillAmount>90</skillAmount>
+   <slots>
+      <slot>3</slot>
+   </slots>
+   <meshes>
+      <mesh>HeavyPadded_Male_Arms</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.07" />
+   <multiplier type="pierce"  value="0.14" />
+   <multiplier type="blunt"  value="0.27" />
+   <multiplier type="siege"  value="0.405" />
+   </armor>
+</object>
+<object id="900">
+   <!--name = Heavy Padded Gauntlets-->
+   <skillID>32</skillID>
+   <skillAmount>90</skillAmount>
+   <slots>
+      <slot>4</slot>
+   </slots>
+   <meshes>
+      <mesh>HeavyPadded_Male_Hands</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.07" />
+   <multiplier type="pierce"  value="0.14" />
+   <multiplier type="blunt"  value="0.27" />
+   <multiplier type="siege"  value="0.405" />
+   </armor>
+</object>
+<object id="901">
+   <!--name = Heavy Padded Leggings-->
+   <skillID>32</skillID>
+   <skillAmount>90</skillAmount>
+   <slots>
+      <slot>5</slot>
+   </slots>
+   <meshes>
+      <mesh>HeavyPadded_Male_Legs</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.07" />
+   <multiplier type="pierce"  value="0.14" />
+   <multiplier type="blunt"  value="0.27" />
+   <multiplier type="siege"  value="0.405" />
+   </armor>
+</object>
+<object id="902">
+   <!--name = Heavy Padded Greaves-->
+   <skillID>32</skillID>
+   <skillAmount>90</skillAmount>
+   <slots>
+      <slot>6</slot>
+   </slots>
+   <meshes>
+      <mesh>HeavyPadded_Male_Feet</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.07" />
+   <multiplier type="pierce"  value="0.14" />
+   <multiplier type="blunt"  value="0.27" />
+   <multiplier type="siege"  value="0.405" />
+   </armor>
+</object>
+<object id="903">
+   <!--name = Royal Padded Helm-->
+   <skillID>32</skillID>
+   <skillAmount>100</skillAmount>
+   <slots>
+      <slot>1</slot>
+   </slots>
+   <meshes>
+      <mesh>RoyalPadded_Male_Head</mesh>
+      <mesh>Nude_Male_head</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.07" />
+   <multiplier type="pierce"  value="0.14" />
+   <multiplier type="blunt"  value="0.27" />
+   <multiplier type="siege"  value="0.405" />
+   </armor>
+</object>
+<object id="904">
+   <!--name = Royal Padded Brestplate-->
+   <skillID>32</skillID>
+   <skillAmount>100</skillAmount>
+   <slots>
+      <slot>2</slot>
+   </slots>
+   <meshes>
+      <mesh>RoyalPadded_Male_Body</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.07" />
+   <multiplier type="pierce"  value="0.14" />
+   <multiplier type="blunt"  value="0.27" />
+   <multiplier type="siege"  value="0.405" />
+   </armor>
+</object>
+<object id="905">
+   <!--name = Royal Padded Vambraces-->
+   <skillID>32</skillID>
+   <skillAmount>100</skillAmount>
+   <slots>
+      <slot>3</slot>
+   </slots>
+   <meshes>
+      <mesh>RoyalPadded_Male_Arms</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.07" />
+   <multiplier type="pierce"  value="0.14" />
+   <multiplier type="blunt"  value="0.27" />
+   <multiplier type="siege"  value="0.405" />
+   </armor>
+</object>
+<object id="906">
+   <!--name = Royal Padded Gauntlets-->
+   <skillID>32</skillID>
+   <skillAmount>100</skillAmount>
+   <slots>
+      <slot>4</slot>
+   </slots>
+   <meshes>
+      <mesh>RoyalPadded_Male_Hands</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.07" />
+   <multiplier type="pierce"  value="0.14" />
+   <multiplier type="blunt"  value="0.27" />
+   <multiplier type="siege"  value="0.405" />
+   </armor>
+</object>
+<object id="907">
+   <!--name = Royal Padded Leggings-->
+   <skillID>32</skillID>
+   <skillAmount>100</skillAmount>
+   <slots>
+      <slot>5</slot>
+   </slots>
+   <meshes>
+      <mesh>RoyalPadded_Male_Legs</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.07" />
+   <multiplier type="pierce"  value="0.14" />
+   <multiplier type="blunt"  value="0.27" />
+   <multiplier type="siege"  value="0.405" />
+   </armor>
+</object>
+<object id="908">
+   <!--name = Royal Padded Greaves-->
+   <skillID>32</skillID>
+   <skillAmount>100</skillAmount>
+   <slots>
+      <slot>6</slot>
+   </slots>
+   <meshes>
+      <mesh>RoyalPadded_Male_Feet</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.07" />
+   <multiplier type="pierce"  value="0.14" />
+   <multiplier type="blunt"  value="0.27" />
+   <multiplier type="siege"  value="0.405" />
+   </armor>
+</object>
+<object id="909">
+   <!--name = Light Chainmail Gauntlets-->
+   <skillID>27</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>4</slot>
+   </slots>
+   <meshes>
+      <mesh>LightChain_Male_Hands</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.21" />
+   <multiplier type="pierce"  value="0.07" />
+   <multiplier type="blunt"  value="0.17" />
+   <multiplier type="siege"  value="0.255" />
+   </armor>
+</object>
+<object id="910">
+   <!--name = Regular Chainmail Leggings-->
+   <skillID>27</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>5</slot>
+   </slots>
+   <meshes>
+      <mesh>RegularChain_Male_Legs</mesh>
+   </meshes>
+   <armor>
+   <multiplier type="slash"  value="0.31" />
+   <multiplier type="pierce"  value="0.1" />
+   <multiplier type="blunt"  value="0.26" />
+   <multiplier type="siege"  value="0.39" />
+   </armor>
+</object>
+<object id="38">
+   <!--name = Torch-->
+   <skillID>31</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="40">
+   <!--name = Shovel-->
+   <skillID>31</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="41">
+   <!--name = Primitive Shovel-->
+   <skillID>31</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="47">
+   <!--name = Primitive Pickaxe-->
+   <skillID>31</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="48">
+   <!--name = Pickaxe-->
+   <skillID>31</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="49">
+   <!--name = Hardened Steel Pickaxe-->
+   <skillID>31</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="43">
+   <!--name = Primitive Hammer-->
+   <skillID>31</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>10</slot>
+      <slot>11</slot>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="42">
+   <!--name = Smith's Hammer-->
+   <skillID>31</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>10</slot>
+      <slot>11</slot>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="44">
+   <!--name = Mallet-->
+   <skillID>31</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>10</slot>
+      <slot>11</slot>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="621">
+   <!--name = Fishing Pole-->
+   <skillID>31</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="45">
+   <!--name = Primitive Axe-->
+   <skillID>31</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>10</slot>
+      <slot>11</slot>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="46">
+   <!--name = Hatchet-->
+   <skillID>31</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>10</slot>
+      <slot>11</slot>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="50">
+   <!--name = Primitive Saw-->
+   <skillID>31</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="51">
+   <!--name = Saw-->
+   <skillID>31</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="463">
+   <!--name = Primitive Crucible and Stick-->
+   <skillID>31</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>10</slot>
+      <slot>11</slot>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="464">
+   <!--name = Crucible and Tongs-->
+   <skillID>31</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>10</slot>
+      <slot>11</slot>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="30">
+   <!--name = Primitive Sickle-->
+   <skillID>31</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>10</slot>
+      <slot>11</slot>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="33">
+   <!--name = Sickle-->
+   <skillID>31</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>10</slot>
+      <slot>11</slot>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="297">
+   <!--name = Rags-->
+   <skillID>11</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>2</slot>
+   </slots>
+<extraSlotsBlock>
+      <slot>3</slot>
+      <slot>5</slot>
+</extraSlotsBlock>
+   <meshes>
+      <mesh>Mnishiy_Got_Male</mesh>
+      <mesh>Nude_Male_forearms</mesh>
+      <mesh>Nude_Male_shoulders</mesh>
+      <mesh>Nude_Male_neck</mesh>
+			<mesh>Nude_Male_shin</mesh>
+   </meshes>
+</object>
+<object id="298">
+   <!--name = Monk's outfit-->
+   <skillID>54</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>2</slot>
+   </slots>
+<extraSlotsBlock>
+      <slot>3</slot>
+      <slot>5</slot>
+      <slot>1</slot>
+</extraSlotsBlock>
+   <meshes>
+      <mesh>Monk_Male</mesh>
+   </meshes>
+</object>
+<object id="299">
+   <!--name = Simple clothes-->
+   <skillID>21</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>2</slot>
+   </slots>
+<extraSlotsBlock>
+      <slot>3</slot>
+      <slot>5</slot>
+</extraSlotsBlock>
+   <meshes>
+      <mesh>Mkrestiane_Male</mesh>
+   </meshes>
+</object>
+<object id="301">
+   <!--name = Decorated clothes-->
+   <skillID>21</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>2</slot>
+   </slots>
+<extraSlotsBlock>
+      <slot>3</slot>
+      <slot>5</slot>
+</extraSlotsBlock>
+   <meshes>
+      <mesh>Decorated_Male</mesh>
+   </meshes>
+</object>
+<object id="303">
+   <!--name = Blacksmith's outfit-->
+   <skillID>4</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>2</slot>
+   </slots>
+<extraSlotsBlock>
+      <slot>3</slot>
+      <slot>5</slot>
+</extraSlotsBlock>
+   <meshes>
+      <mesh>Blacksmith_Male</mesh>
+      <mesh>Nude_Male_neck</mesh>
+   </meshes>
+</object>
+<object id="304">
+   <!--name = Carpenter's outfit-->
+   <skillID>8</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>2</slot>
+   </slots>
+<extraSlotsBlock>
+      <slot>3</slot>
+      <slot>5</slot>
+</extraSlotsBlock>
+   <meshes>
+      <mesh>Carpenter_Male</mesh>
+      <mesh>Nude_Male_neck</mesh>
+   </meshes>
+</object>
+<object id="305">
+   <!--name = Alchemist's outfit-->
+   <skillID>13</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>2</slot>
+   </slots>
+<extraSlotsBlock>
+      <slot>3</slot>
+      <slot>5</slot>
+</extraSlotsBlock>
+   <meshes>
+      <mesh>Alchemist_Male</mesh>
+      <mesh>Nude_Male_neck</mesh>
+   </meshes>
+</object>
+<object id="306">
+   <!--name = Engineer's outfit-->
+   <skillID>10</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>2</slot>
+   </slots>
+<extraSlotsBlock>
+      <slot>3</slot>
+      <slot>5</slot>
+</extraSlotsBlock>
+   <meshes>
+      <mesh>Enginer_Male</mesh>
+      <mesh>Nude_Male_neck</mesh>
+   </meshes>
+</object>
+<object id="307">
+   <!--name = Cook's outfit-->
+   <skillID>24</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>2</slot>
+   </slots>
+<extraSlotsBlock>
+      <slot>3</slot>
+      <slot>5</slot>
+</extraSlotsBlock>
+   <meshes>
+      <mesh>Cook_Male</mesh>
+      <mesh>Nude_Male_neck</mesh>
+   </meshes>
+</object>
+<object id="1028">
+   <!--name = Primitive Cooking Pot-->
+   <skillID>31</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>10</slot>
+      <slot>11</slot>
+   </slots>
+
+
+</object>
+<object id="1029">
+   <!--name = Cooking Pot-->
+   <skillID>31</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>10</slot>
+      <slot>11</slot>
+   </slots>
+
+
+</object>
+<object id="289">
+   <!--name = Primitive Knife-->
+   <skillID>31</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>10</slot>
+      <slot>11</slot>
+   </slots>
+
+
+</object>
+<object id="290">
+   <!--name = Knife-->
+   <skillID>31</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>10</slot>
+      <slot>11</slot>
+   </slots>
+
+
+</object>
+<object id="291">
+   <!--name = Skinning Knife-->
+   <skillID>31</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>10</slot>
+      <slot>11</slot>
+   </slots>
+
+
+</object>
+<object id="294">
+   <!--name = Glassblower's Tools-->
+   <skillID>31</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="620">
+   <!--name = Primitive Fishing Pole-->
+   <skillID>31</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="1096">
+   <!--name = Sling Ammo-->
+   <skillID>46</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>10</slot>
+      <slot>11</slot>
+   </slots>
+
+
+</object>
+<object id="660">
+   <!--name = Arrow-->
+   <skillID>49</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="656">
+   <!--name = Bodkin arrow-->
+   <skillID>49</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="657">
+   <!--name = Broadhead Arrow-->
+   <skillID>49</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="659">
+   <!--name = Dull arrow-->
+   <skillID>49</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="662">
+   <!--name = Bolt-->
+   <skillID>48</skillID>
+   <skillAmount>0</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="663">
+   <!--name = Dull bolt-->
+   <skillID>48</skillID>
+   <skillAmount>30</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+<object id="664">
+   <!--name = Heavy bolt-->
+   <skillID>48</skillID>
+   <skillAmount>60</skillAmount>
+   <slots>
+      <slot>12</slot>
+      <slot>13</slot>
+   </slots>
+
+
+</object>
+
+</equipment_types>
