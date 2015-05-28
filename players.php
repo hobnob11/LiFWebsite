@@ -3,6 +3,19 @@
 <head>
 <style>
 
+#equipment{
+	width:350px; 
+	height:579px;
+	background-image:url("art/gui/equipment/eq_background.png");
+	}
+#name{
+	position:relative;
+	width:100%;
+	height:16px;
+	text-align:center;
+	padding-top:20px;
+}
+		
 </style>
 
 </head>
@@ -12,23 +25,12 @@
 
 <?php $player="Hobnob"; ?>
 
+<div id="equipment">
+	<div id="name"><?php echo($player);?></div>
+	
+	
+	
+</div>
 
-<table style="width:100%">
-<tr>
-<th></th>
-<th><?php echo($player)?></th>
-<th></th>
-
-</tr>
-<tr>
-<td></td>
-<td>
-
-<img src="art/gui/equipment/eq_background.png"></img>
-
-</td>
-<td></td>
-</tr>
-</table>
 </body>
 </html>
