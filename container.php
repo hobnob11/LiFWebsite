@@ -1,5 +1,5 @@
 <?php
-	include("header.html")
+	include("header.html");
 
 	$servername = "localhost";
 	$username = "root";
@@ -24,7 +24,7 @@ if(isset($_GET['ContainerID']))
 	$result = $connection->query($sql);
 	?>
 
-	<table style="width:100%">');
+	<table style="width:100%">
 	<tr>
 		<th>ID</th>
 		<th>ContainerID</th>
@@ -70,16 +70,26 @@ $result2 = $connection->query($sql2);
 <br>
 Select A Container:<br>
 <form name='ContainerForm' action='container.php' method='get'>
-<select name='ContainerID'>
+<select name='ContainerID' onchange='this.form.submit()'>
 
 <?php
+if(isset($_GET['ContainerID']))
+{
+	echo("<option value='".$_GET['ContainerID']."'>".$_GET['ContainerID']."</option>");
+}
 foreach($result2 as $value2)
 {
-	echo("<option value='".$value2["ContainerID"]."'>".$value2["ContainerID"]."</option>");
+	if(isset($_GET['ContainerID'])){
+		if($_GET['ContainerID']!=$value2['ContainerID']){
+			echo("<option value='".$value2["ContainerID"]."'>".$value2["ContainerID"]."</option>");
+		}
+	}else{
+		echo("<option value='".$value2["ContainerID"]."'>".$value2["ContainerID"]."</option>");
+	}
 }
 ?>
 </select>
-<input value='Select Container' type='submit'>
+<noscript><input class="btn btn-default" value='Select Container' type='submit'></noscript>
 </form>
 <a href="index.php" class="btn btn-default">Index</a>
 
