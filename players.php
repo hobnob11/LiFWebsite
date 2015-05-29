@@ -1,5 +1,4 @@
 <?php include("header.html") ?>
-
 <div id="database">
 	<?php
 	
@@ -21,7 +20,7 @@
 
 		foreach($query as $players)
 		{
-			echo($players["Name"]." ".$players["LastName"]);
+			echo("<h3>".$players["Name"]." ".$players["LastName"]."</h3>");
 
 			echo("<div id='datatable'><table border='1'><tr>");
 			foreach($query->fetch_fields() as $coloum)
@@ -49,5 +48,16 @@
 <div id="equipment">
 	<div id="name"><?php echo($player);?></div>
 </div>
+
+
+<script src="http://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
+<script type='text/javascript'>
+	$( "#database" ).accordion({
+    collapsible: true,
+    active: false
+});
+</script>
+
+
 
 <?php include("footer.html") ?>
