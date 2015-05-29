@@ -20,41 +20,43 @@
 
 		foreach($query as $players)
 		{
-			echo("<h3>".$players["Name"]." ".$players["LastName"]."</h3>");
+			echo("<h4>".$players["Name"]." ".$players["LastName"]."</h4>");
 
 			echo("<div id='datatable'><table border='1'><tr>");
 			foreach($query->fetch_fields() as $coloum)
 			{
 				echo("<th style='text-align:center'>");
-				echo(" ".$coloum->name." ");
+				echo($coloum->name);
 				echo("</th>");
 			}
-			echo("</tr><br><tr>");
+			echo("</tr><tr>");
 			foreach($players as $values)
 			{
 				echo("<td style='text-align:center'>");
 				echo($values);
 				echo("</td>");
 			}
-			echo("</tr></table></div><br>");
+			echo("</tr></table></div>");
 		}
 	?>
 </div>
 
 <a href="index.php" class="btn btn-default">Index</a>
-
-<?php $player="Hobnob"; ?>
-
-<div id="equipment">
-	<div id="name"><?php echo($player);?></div>
-</div>
-
+<iframe id="equipmentframe" src="" width=100% height=500px></iframe>
 
 <script src="http://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
 <script type='text/javascript'>
+	var iframe = $("#equipmentframe")
 	$( "#database" ).accordion({
     collapsible: true,
-    active: false
+    active: false,
+	activate: function(event,ui){
+        if(ui && ui.newHeader[0]){
+            console.log(ui.newHeader[0].innerText);
+            iframe.attr("src","equipment.php?name="+ $(ui.newHeader).text());
+        }
+    }  
+
 });
 </script>
 

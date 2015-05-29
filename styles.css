@@ -5,9 +5,9 @@
 /* Players.php */
 #equipment{
 	width:350px; 
-	height:579px;
+	height:495px;
 	background-image:url("art/gui/equipment/eq_background.png");
-	margin:auto;
+	/*margin:auto;*/
 	}
 #name{
 	position:relative;
