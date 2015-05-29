@@ -2,18 +2,30 @@
 {
 	padding-top: 30px;
 }
-
-//players.php
-
+/* Players.php */
 #equipment{
 	width:350px; 
 	height:579px;
 	background-image:url("art/gui/equipment/eq_background.png");
+	margin:auto;
 	}
 #name{
 	position:relative;
 	width:100%;
-	height:16px;
+	height:20px;
 	text-align:center;
+	vertical-align:top;
 	padding-top:20px;
+	font-size:20px;
+}
+#database{
+	position:absolute;
+	width:100%;
+	height:200px;
+	bottom:0px;
+	left:0px;
+	border:5px solid grey;
+	background-color:#000000;
+	color:#00FF00;
+	overflow:auto;
 }
